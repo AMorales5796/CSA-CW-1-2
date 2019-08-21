@@ -1,0 +1,6 @@
+public class EP001{
+    public static void main (String[] args)
+    {
+        System.out.println("Nature's first green is gold,\nHer hardest hue to hold.\nHer early leaf's a flower;\nBut only so an hour.\nThen leaf subsides to leaf.\nSo Eden sank to grief,\nSo dawn goes down to day.\nNothing gold can stay.\n\t\t-Robert Frost");
+    }
+}
